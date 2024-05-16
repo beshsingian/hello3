@@ -1,5 +1,6 @@
-<h1> Hello, Bes Singian</h1
+<h1> Hello Bes Singian</h1
 <h2> Welcome to CICD - Build and deploy using jenkins(Simulation Test)</h2>
+
 <body> The quick brown fox jumps over the lazy dog. 
 What is Jenkins?
 Jenkins is an open source automation tool written in Java programming language that allows continuous integration.
